@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2019122000"><visible><![CDATA[1]]></visible>
-<name><![CDATA[Distribuição por Gênero]]></name>
+<name><![CDATA[Perfil Alunos - Distribuição por Gênero]]></name>
 <summary><![CDATA[]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[sql]]></type>
@@ -9,7 +9,7 @@
 <export><![CDATA[csv,json,ods,xls,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[0]]></global>
-<lastexecutiontime><![CDATA[11413]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[12005]]></lastexecutiontime>
 <cron><![CDATA[1]]></cron>
 <remote><![CDATA[0]]></remote>
 </report>
