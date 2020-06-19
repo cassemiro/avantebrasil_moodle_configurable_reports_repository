@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019122000"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Certificados por curso]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo2ODE6IlNFTEVDVCUwRCUwQUNPTkNBVCslMjh1LmZpcnN0bmFtZSUyQyslMjcrJTI3JTJDdS5sYXN0bmFtZSUyOStBUyslMjdVc2VyJTI3JTJDJTBEJTBBdS5pZCtBUyslMjdpZFVzZXIlMjclMkMlMEQlMEFjLmZ1bGxuYW1lK0FTKyUyN0NvdXJzZSUyNyUyQyUwRCUwQWMuaWQrQVMrJTI3aWRDb3Vyc2UlMjclMkMlMEQlMEFzYy5uYW1lK0FTKyUyN0NlcnRpZmljYXRlJTI3JTJDJTBEJTBBc2NpLmNvZGUrQVMrJTI3Q29kZSUyNyUyQyUwRCUwQURBVEVfRk9STUFUJTI4K0ZST01fVU5JWFRJTUUlMjhzY2kudGltZWNyZWF0ZWQlMjklMkMrJTI3JTI1WS0lMjVtLSUyNWQlMjcrJTI5K0FTKyUyN0RhdGUrQXdhcmRlZCUyNyUwRCUwQUZST00rcHJlZml4X3NpbXBsZWNlcnRpZmljYXRlX2lzc3VlcytzY2klMEQlMEFKT0lOK3ByZWZpeF91c2VyK3UrT04rc2NpLnVzZXJpZCslM0QrdS5pZCUwRCUwQUpPSU4rcHJlZml4X3NpbXBsZWNlcnRpZmljYXRlK3NjK09OK3NjaS5jZXJ0aWZpY2F0ZWlkKyUzRCtzYy5pZCUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK3NjLmNvdXJzZSslM0QrYy5pZCUwRCUwQVdIRVJFK3UuZGVsZXRlZCslM0QrMCtBTkQrdS5zdXNwZW5kZWQrJTNEKzAlMEQlMEElMjUlMjVGSUxURVJfQ09VUlNFUyUzQWMuaWQlMjUlMjUlMEQlMEFPUkRFUitCWStzY2kudGltZWNyZWF0ZWQrREVTQyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoyMDoiU2FsdmFyK211ZGFuJUMzJUE3YXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6Im1vcGVSazRwWGs3dW1kWCI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6MDp7fXM6MTA6InBsdWdpbm5hbWUiO3M6NzoiY291cnNlcyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NjoiQ3Vyc29zIjtzOjc6InN1bW1hcnkiO3M6ODk6IkVzdGUrZmlsdHJvK21vc3RyYSt1bWErbGlzdGErZGUrY3Vyc29zKy4rQXBlbmFzK3VtK2N1cnNvK3BvZGUrc2VyK3NlbGVjaW9uYWRvK2RlK2NhZGErdmV6Ijt9fX19]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

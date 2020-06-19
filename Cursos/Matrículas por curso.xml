@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019122000"><visible><![CDATA[0]]></visible>
+<name><![CDATA[Matrículas por curso]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo2MjI6IlNFTEVDVCUwRCUwQUNPTkNBVCUyOHVzZXIyLmZpcnN0bmFtZSUyQyslMjcrJTI3KyUyQyt1c2VyMi5sYXN0bmFtZSUyOStBUytGaXJzdG5hbWUlMkMlMEQlMEF1c2VyMi5lbWFpbCtBUytFbWFpbCUyQyUwRCUwQXVzZXIyLmNpdHkrQVMrQ2l0eSUyQyUwRCUwQWNvdXJzZS5mdWxsbmFtZStBUytDb3Vyc2UlMEQlMEElMkMlMjhTRUxFQ1Qrc2hvcnRuYW1lK0ZST00rcHJlZml4X3JvbGUrV0hFUkUraWQlM0Rlbi5yb2xlaWQlMjkrQVMrUk9MRSUwRCUwQSUyQyUyOFNFTEVDVCtuYW1lK0ZST00rcHJlZml4X3JvbGUrV0hFUkUraWQlM0Rlbi5yb2xlaWQlMjkrQVMrUm9sZU5hbWUlMEQlMEErJTBEJTBBRlJPTStwcmVmaXhfY291cnNlK0FTK2NvdXJzZSslMEQlMEFKT0lOK3ByZWZpeF9lbnJvbCtBUytlbitPTitlbi5jb3Vyc2VpZCslM0QrY291cnNlLmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcl9lbnJvbG1lbnRzK0FTK3VlK09OK3VlLmVucm9saWQrJTNEK2VuLmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcitBUyt1c2VyMitPTit1ZS51c2VyaWQrJTNEK3VzZXIyLmlkJTBEJTBBJTI1JTI1RklMVEVSX0NPVVJTRVMlM0FjLmlkJTI1JTI1JTBEJTBBR1JPVVArQlkrdWUuaWQlMEQlMEElMEQlMEElMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MjA6IlNhbHZhcittdWRhbiVDMyVBN2FzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJRT3FQeWZZREpoczUwbDUiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjA6e31zOjEwOiJwbHVnaW5uYW1lIjtzOjc6ImNvdXJzZXMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjY6IkN1cnNvcyI7czo3OiJzdW1tYXJ5IjtzOjg5OiJFc3RlK2ZpbHRybyttb3N0cmErdW1hK2xpc3RhK2RlK2N1cnNvcysuK0FwZW5hcyt1bStjdXJzbytwb2RlK3NlcitzZWxlY2lvbmFkbytkZStjYWRhK3ZleiI7fX19fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[12]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
